@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg1"
+   sodipodi:docname="blackRook.svg"
+   inkscape:export-filename="C:\joanna\Gfx\drawings_vector\admin\thumbs\Igor Krizanovskij\chess_set_symbols_igor_k_01_ok.png"
+   viewBox="0 0 64.679 75.265"
+   sodipodi:version="0.32"
+   inkscape:export-xdpi="51.457458"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-ydpi="51.457458"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2120" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     pagecolor="#ffffff"
+     inkscape:zoom="6.5501894"
+     inkscape:window-x="0"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="32.365476"
+     inkscape:cy="68.62397"
+     inkscape:window-y="0"
+     inkscape:window-height="703"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:window-maximized="1" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-412.42 -81.055)">
+    <g
+       id="g3560">
+      <path
+         style="fill:#000000"
+         d="m 414.87,156.32 -2.45,-2.45 v -9.17 l 13.04,-12.91 V 106.1 L 415.39,96.16 V 84.67 L 419,81.055 h 9.17 l 2.32,2.195 v 3.228 h 4.91 V 83.25 l 2.19,-2.195 h 14.33 l 2.2,2.195 v 3.228 h 4.9 V 83.25 l 2.2,-2.195 h 9.29 l 3.62,3.615 v 11.49 l -10.07,9.94 v 25.69 l 13.04,12.91 v 9.17 l -2.59,2.45 h -59.64"
+         id="path1734" />
+      <path
+         style="fill:#e6e6e6"
+         d="m 430.1,105.58 v 4.39 h 29.31 v -4.39 H 430.1"
+         id="path3501" />
+      <path
+         style="fill:#e6e6e6"
+         d="m 430.1,128.82 v 4.39 h 29.31 v -4.39 H 430.1"
+         id="path3499" />
+    </g>
+  </g>
+  <metadata
+     id="metadata2117">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Chess symbols set </dc:title>
+        <dc:date>2009-04-06T07:41:21</dc:date>
+        <dc:description>Chess set by Igor Krizanovskij. From old OCAL site.</dc:description>
+        <dc:source>https://openclipart.org/detail/24134/chess-symbols-set--by-anonymous-24134</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Anonymous</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>board</rdf:li>
+            <rdf:li>chess</rdf:li>
+            <rdf:li>collection</rdf:li>
+            <rdf:li>figure</rdf:li>
+            <rdf:li>game</rdf:li>
+            <rdf:li>piece</rdf:li>
+            <rdf:li>play</rdf:li>
+            <rdf:li>set</rdf:li>
+            <rdf:li>symbol</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

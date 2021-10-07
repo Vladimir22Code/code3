@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="42.92902mm"
+   height="55.8792mm"
+   viewBox="0 0 42.92902 55.8792"
+   version="1.1"
+   id="svg5495"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5492" />
+  <g
+     id="g10642">
+    <path
+       fill="#ffffff"
+       stroke="#20201e"
+       stroke-width="0.915393"
+       d="m 40.961391,55.14211 c 0.716245,0 1.295286,-0.579427 1.295286,-1.295692 V 50.80202 c 0,-0.716246 -0.579041,-1.295277 -1.295286,-1.295277 H 1.9676221 c -0.7158224,0 -1.2952813,0.579031 -1.2952813,1.295277 v 3.044398 c 0,0.716235 0.5794064,1.295692 1.2952813,1.295692 z"
+       id="path4973"
+       style="fill:#e6e6e6;stroke-width:1.32291667;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000" />
+    <rect
+       x="2.7669702"
+       y="44.70927"
+       fill="#ffffff"
+       stroke="#20201e"
+       stroke-width="0.915393"
+       width="37.395874"
+       height="4.7984591"
+       id="rect4975"
+       style="fill:#e6e6e6;stroke-width:1.32291667;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000" />
+    <polygon
+       fill="#ffffff"
+       stroke="#20201e"
+       stroke-width="3.4947"
+       stroke-linejoin="bevel"
+       points="-383.5658,80.3635 -398.2454,63.9094 -511.6526,63.9094 -526.3322,80.3635 "
+       id="polygon4977"
+       transform="matrix(0.2619375,0,0,0.2619375,140.63312,23.659061)"
+       style="fill:#e6e6e6;stroke-width:5.05050505;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000" />
+    <polygon
+       fill="#ffffff"
+       stroke="#20201e"
+       stroke-width="3.4947"
+       stroke-linejoin="round"
+       points="-379.092,-51.3664 -398.2454,-33.0436 -511.6526,-33.0436 -530.8688,-51.3664 "
+       id="polygon4979"
+       transform="matrix(0.2619375,0,0,0.2619375,140.63312,23.659061)"
+       style="fill:#e6e6e6;stroke-width:5.05050505;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000" />
+    <rect
+       x="6.6121402"
+       y="15.003697"
+       fill="#ffffff"
+       stroke="#20201e"
+       stroke-width="0.915393"
+       width="29.666021"
+       height="25.398115"
+       id="rect4981"
+       style="fill:#e6e6e6;stroke-width:1.32291667;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000" />
+    <path
+       fill="#ffffff"
+       stroke="#20201e"
+       stroke-width="0.915393"
+       stroke-linecap="square"
+       d="M 40.112584,0.7372544 H 33.193217 V 5.1867797 L 29.310229,6.4728491 25.729855,5.1867797 V 0.7372544 H 17.200648 V 5.1867797 L 13.620279,6.4728491 9.7368976,5.1867797 V 0.7372544 H 2.8175045 c -0.6840494,0 -1.2385187,0.5794272 -1.2385187,1.2944646 v 8.186488 H 41.352332 V 2.031719 C 41.35155,1.3164242 40.796892,0.737096 40.112921,0.737096 Z"
+       id="path4983"
+       style="fill:#e6e6e6;stroke-width:1.32291667;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000" />
+  </g>
+</svg>
